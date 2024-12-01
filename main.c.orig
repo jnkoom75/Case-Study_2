@@ -1,6 +1,8 @@
 This is master file
 <<<<<<< HEAD
 This is latest update
-=======
 This feature is added by feature1 branch
->>>>>>> feature1
+
+=======
+The latest updated feature is added by feature2 branch
+>>>>>>> feature2
